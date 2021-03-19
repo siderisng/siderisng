@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🌍 Between London & Thessaloniki
+🌍 &nbsp;&nbsp; Between London & Thessaloniki
 
-🖥️ Working as a full-stack developer, specializing in the Frontend space
+🖥️ &nbsp;&nbsp; Working as a full-stack developer, specializing in the Frontend space
 
-📚 Using Javascript (Vue.js, React, Svelte), PHP, Python, HTML, CSS & more
+📚 &nbsp;&nbsp; Using Javascript (Vue.js, React, Svelte), PHP, Python, HTML, CSS & more
 
 [![Siderisng's GitHub stats](https://github-readme-stats.vercel.app/api?username=siderisng&count_private=true&include_all_commits=true&show_icons=true&theme=bear&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
